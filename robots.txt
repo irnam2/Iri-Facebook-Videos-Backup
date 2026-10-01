@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://irnam2.github.io/IIB-Manager/sitemap.xml
+Sitemap: https://irnam2.github.io/Iri-Facebook-Videos-Backup/sitemap.xml
